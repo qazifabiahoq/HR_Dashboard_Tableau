@@ -3,6 +3,8 @@
 
 Welcome to the HR Department Dashboard project in Tableau. This dashboard provides detailed insights into various HR metrics, showcasing data-driven analysis and visualizations.
 
+## Link to Tableau: https://public.tableau.com/app/profile/qazi.fabia.hoq/viz/HRANALYTICSDASHBOARD_17012308187110/HRDashboard?publish=yes
+
 ## Dashboard Components:
 
 1. **Attrition By Gender:**
